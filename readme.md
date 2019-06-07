@@ -1,4 +1,4 @@
 # speech to text
-voice recognition
+voice recognition.
 ## text to speech
-text recognitions
+text recognitions.
